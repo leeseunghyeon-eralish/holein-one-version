@@ -5,7 +5,7 @@
     <title>HallinOne</title>
     <!-- Android -->
     <item>
-      <title>v1.0.0</title>
+      <title>v1.0.1</title>
       <description>새로운 버전이 업데이트 되었습니다.</description>
       <pubDate>Sat, 13 May 2023 12:00:00+0000</pubDate>
       <enclosure url="https://www.naver.com" sparkle:version="1.0.1" sparkle:os="android" />
